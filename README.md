@@ -22,39 +22,39 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 # Pre-BattleRoyale
 | Build                  	 | Date          	 | Engine Version	    |		    Download links             |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	    |		public.simplyblk.xyz/OT0.6.5.zip |
+| OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	    |		https://public.simplyblk.xyz/OT0.6.5.zip |
 | Cert-CL-3532353                | 20-07-17              | UE4.16-3532353           | N/A |
 | 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		N/A |
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 1.7.2-CL-3700114        	| 17-10-17      	 | UE4.16-3700114	    |	        public.simplyblk.xyz/1.7.2.zip|
-| 1.8-CL-3724489          	| 25-10-17       	 | UE4.16-3724489	    |		public.simplyblk.xyz/1.8.rar|
-| 1.8.1-CL-3729133              | 02-11-17               | UE4.16-3729133           | public.simplyblk.xyz/1.8.1.rar|
-| 1.8.2-CL-3741772        	| 08-11-17      	 | UE4.16-3741772	    |		public.simplyblk.xyz/1.8.2.rar|
-| 1.9-CL-3757339          	| 14-11-17       	 | UE4.16-3757339	    |		public.simplyblk.xyz/1.9.rar|
-| 1.9.1-CL-3775276        	| 29-11-17       	 | UE4.16-3775276	    |		public.simplyblk.xyz/1.9.1.rar|
-| 1.10-CL-3790078	  	| 06-12-17	   	 | UE4.19-3790078	    |		public.simplyblk.xyz/1.10.rar|
+| 1.7.2-CL-3700114        	| 17-10-17      	 | UE4.16-3700114	    |	        https://public.simplyblk.xyz/1.7.2.zip|
+| 1.8-CL-3724489          	| 25-10-17       	 | UE4.16-3724489	    |		https://public.simplyblk.xyz/1.8.rar|
+| 1.8.1-CL-3729133              | 02-11-17               | UE4.16-3729133           | https://public.simplyblk.xyz/1.8.1.rar|
+| 1.8.2-CL-3741772        	| 08-11-17      	 | UE4.16-3741772	    |		https://public.simplyblk.xyz/1.8.2.rar|
+| 1.9-CL-3757339          	| 14-11-17       	 | UE4.16-3757339	    |		https://public.simplyblk.xyz/1.9.rar|
+| 1.9.1-CL-3775276        	| 29-11-17       	 | UE4.16-3775276	    |		https://public.simplyblk.xyz/1.9.1.rar|
+| 1.10-CL-3790078	  	| 06-12-17	   	 | UE4.19-3790078	    |		https://public.simplyblk.xyz/1.10.rar|
  
 # Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ |------------------------------- |
-| 1.11-CL-3807424         	| 14-12-17		 | UE4.19-3807424	    |		public.simplyblk.xyz/1.11.zip|
-| 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.19-3825894	    |		public.simplyblk.xyz/2.1.0.zip|
-| 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.19-3841827	    |		public.simplyblk.xyz/2.2.0.rar|
-| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		public.simplyblk.xyz/2.3.rar|
-| 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.19-3858292	    |		public.simplyblk.xyz/2.4.0.zip|
-| 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		public.simplyblk.xyz/2.4.2.zip|
-| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |	        public.simplyblk.xyz/2.5.0.rar|
+| 1.11-CL-3807424         	| 14-12-17		 | UE4.19-3807424	    |		https://public.simplyblk.xyz/1.11.zip|
+| 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.19-3825894	    |		https://public.simplyblk.xyz/2.1.0.zip|
+| 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.19-3841827	    |		https://public.simplyblk.xyz/2.2.0.rar|
+| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		https://public.simplyblk.xyz/2.3.rar|
+| 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.19-3858292	    |		https://public.simplyblk.xyz/2.4.0.zip|
+| 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		https://public.simplyblk.xyz/2.4.2.zip|
+| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |	        https://public.simplyblk.xyz/2.5.0.rar|
 
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |	public.simplyblk.xyz/3.0.zip |
-| 3.1-CL-3915963    		| 28-02-18         	 | UE4.20-3915963      	    |   	public.simplyblk.xyz/3.1.rar|
-| 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		public.simplyblk.xyz/3.1.1.zip|
-| 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		public.simplyblk.xyz/3.2.zip|
+| 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |	https://public.simplyblk.xyz/3.0.zip |
+| 3.1-CL-3915963    		| 28-02-18         	 | UE4.20-3915963      	    |   	https://public.simplyblk.xyz/3.1.rar|
+| 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		https://public.simplyblk.xyz/3.1.1.zip|
+| 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://public.simplyblk.xyz/3.2.zip|
 | 3.3-CL-3942182                | 15-03-18               | UE4.20-3942182           | https://public.simplyblk.xyz/3.3.rar|
 | 3.5-CL-4008490          	| 11-04-18       	 | UE4.20-4008490	    | 		https://public.simplyblk.xyz/3.5.rar|
 | 3.6-CL-4019403          	| 24-04-18       	 | UE4.20-4019403	    | 		https://public.simplyblk.xyz/3.6.zip|
